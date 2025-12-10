@@ -8,7 +8,7 @@ N°Apogée:22007255
     <img src="LOGO ENCG.webp.jpg" style="height:264px; margin-right:264px;"/> 
 
 
-
+<img src="data:image/jpeg;base64,VOTRE_CODE_BASE64_ICI" alt="Logo ENCG" style="height:264px;"/>
     
 
 
