@@ -1,7 +1,14 @@
 ---
-GHARRAB AYA
+GHARRAB AYA  
+
+
 N°Apogée:22007255
-<img src="LOGO ENCG.jpg" style="height:264px; margin-right:264px;"/>
+
+
+<img src="LOGO ENCG.webp.jpg" style="height:264px; margin-right:264px;"/>
+
+
+
 # 📘 GRAND GUIDE : ANATOMIE D'UN PROJET DATA SCIENCE
 
 Ce document décortique chaque étape du cycle de vie d'un projet de Machine Learning. Il est conçu pour passer du niveau "débutant qui copie du code" au niveau "ingénieur qui comprend les mécanismes internes".
