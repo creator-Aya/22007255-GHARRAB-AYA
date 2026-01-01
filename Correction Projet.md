@@ -7,7 +7,7 @@ N°Apogée:22007255
 
   
 
-<img src="LOGO ENCG.webp.jpg" height="520" style="margin-right:830px;">
+<img src="Photo personnelle1.jpg" style="height:320px; margin-right:430px;"/>
 
 
 
