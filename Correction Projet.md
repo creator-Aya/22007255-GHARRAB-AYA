@@ -5,10 +5,10 @@ GHARRAB AYA
 N°Apogée:22007255
 
 
-    <img src="LOGO ENCG.webp.jpg" style="height:320px; margin-right:430px;"/> 
+   
 
 
-<img src="LOGO ENCG.webp.jpg" class="logo-encg">
+    <img src="LOGO ENCG.webp.jpg" class="logo-encg">
 
     
 
