@@ -1,10 +1,4 @@
 ---
-
-<img src="LOGO ENCG.webp.jpg" style="height:220px; margin-right:230px;"/>
-
-
-
-
 GHARRAB AYA  
 
 
