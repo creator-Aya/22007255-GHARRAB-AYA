@@ -1,6 +1,6 @@
 ---
 
-<img src="LOGO ENCG.jpg" style="height:320px; margin-right:430px;"/>
+<img src="LOGO ENCG.webp.jpg" style="height:220px; margin-right:230px;"/>
 
 
 
